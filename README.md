@@ -27,7 +27,7 @@ Role - Lead Programmer
 Role - Lead Programmer
 * [Know Covid](https://coding-catharsis.itch.io/know-covid?secret=BSOU84Xjv2Eri51hm9sUwMdJJU)
 
-![image](https://user-images.githubusercontent.com/61070788/164373833-7ebfec07-bcb8-49fb-8d29-1a607bd18011.png)
+![image](https://user-images.githubusercontent.com/61070788/164373927-97ce64b8-d3b3-4a57-9469-8ce7509c812a.png)
 
 ## About Me
 - 🔭 I’m currently working on my course as a graduating student
