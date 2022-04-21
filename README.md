@@ -29,6 +29,9 @@ Role - Lead Programmer
 
 ![image](https://user-images.githubusercontent.com/61070788/164373927-97ce64b8-d3b3-4a57-9469-8ce7509c812a.png)
 
+## Projects
+### Research project
+
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubz-skrrrt&show_icons&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -38,6 +41,10 @@ Role - Lead Programmer
 - 🔭 I’m currently working on my course as a graduating student
 - 🌱 I’m currently learning backend coding and API integration in my On-the-Job training
 - 👯 I’m looking to collaborate on a few game jam projects with new people
-- 📫 How to reach me: Work email: lylek.rallos@gmail.com or at Discord: Dubz_skrrrt#2345
+- 📫 How to reach me:
+    * Work email: lylek.rallos@gmail.com 
+    * Discord: Dubz_skrrrt#2345
+    * LinkedIn: [Lyle Krishner Rallos](https://www.linkedin.com/in/lyle-krishner-rallos-63b0bb234/)
+
 - ⚡ Fun fact: I like to read light novels which inspires me in making game concepts
 -->
