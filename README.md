@@ -16,6 +16,8 @@ I currently learning/Have basic knowledge in:
 Game Jam+
 Role - Lead Programmer
 * [Chase Kypher](https://minnic27.itch.io/chase-kypher)
+
+
 2021 MCM YES Game Dev Competition
 Role - Lead Programmer
 * [Know Covid](https://coding-catharsis.itch.io/know-covid?secret=BSOU84Xjv2Eri51hm9sUwMdJJU)
