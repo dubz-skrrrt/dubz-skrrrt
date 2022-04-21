@@ -13,7 +13,7 @@ I currently learning/Have basic knowledge in:
 * PHP
 
 ## Game Jam Entries
-Game Jam+
+2021 Game Jam+
 
 Role - Lead Programmer
 * [Chase Kypher](https://minnic27.itch.io/chase-kypher)
