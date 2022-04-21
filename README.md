@@ -32,7 +32,7 @@ Role - Lead Programmer
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubz-skrrrt&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubz-skrrrt)](https://github.com/dubz-skrrrt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubz-skrrrt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 - 🔭 I’m currently working on my course as a graduating student
