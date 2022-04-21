@@ -17,6 +17,7 @@ Game Jam+
 
 Role - Lead Programmer
 * [Chase Kypher](https://minnic27.itch.io/chase-kypher)
+![image](https://user-images.githubusercontent.com/61070788/164373230-7a1ce1e3-fadc-44aa-a14e-b28982fe1a23.png)
 
 
 2021 MCM YES Game Dev Competition
