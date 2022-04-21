@@ -19,13 +19,16 @@ Role - Lead Programmer
 * [Chase Kypher](https://minnic27.itch.io/chase-kypher)
 
 
-![image](https://user-images.githubusercontent.com/61070788/164373230-7a1ce1e3-fadc-44aa-a14e-b28982fe1a23.png)
+![image](https://user-images.githubusercontent.com/61070788/164373373-9ad3b77a-0297-4ef7-9747-90b02f9eb9d0.png)
 
 
 2021 MCM YES Game Dev Competition
 
 Role - Lead Programmer
 * [Know Covid](https://coding-catharsis.itch.io/know-covid?secret=BSOU84Xjv2Eri51hm9sUwMdJJU)
+
+![image](https://user-images.githubusercontent.com/61070788/164373516-d144a884-e6d6-4bdf-b644-14e68aaac1bd.png)
+
 ## About Me
 - 🔭 I’m currently working on my course as a graduating student
 - 🌱 I’m currently learning backend coding and API integration in my On-the-Job training
