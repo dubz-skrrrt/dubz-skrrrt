@@ -5,7 +5,21 @@ I am a graduating student in [Malayan Colleges Mindanao](https://mcm.edu.ph). I'
 I have also participated in a few game jams which was a great experience as a game developer!
 
 ## Programming Languages
+I currently learning/Have basic knowledge in:
+* C# (Unity)
+* Python
+* Javascript
+* HTML/CSS
+* PHP
 
+## Game Jam Entries
+Game Jam+
+Role - Lead Programmer
+* [Chase Kypher](https://minnic27.itch.io/chase-kypher)
+2021 MCM YES Game Dev Competition
+Role - Lead Programmer
+* [Know Covid](https://coding-catharsis.itch.io/know-covid?secret=BSOU84Xjv2Eri51hm9sUwMdJJU)
+## About Me
 - 🔭 I’m currently working on my course as a graduating student
 - 🌱 I’m currently learning backend coding and API integration in my On-the-Job training
 - 👯 I’m looking to collaborate on a few game jam projects with new people
