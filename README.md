@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name's Lyle, I am an inspiring Game Developer. I passionate about creating games from coding to making game concepts and designing!
+![](https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif)
  <img src"https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif" width="40" height="40" />
 I am a graduating student in [Malayan Colleges Mindanao](https://mcm.edu.ph). I'm also a former volunteer as a game caster in school events and in PSITS-XI! 
 I have also participated in a few game jams which was a great experience as a game developer!
