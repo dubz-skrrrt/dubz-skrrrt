@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 My name's Lyle, I am an inspiring Game Developer. I passionate about creating games from coding to making game concepts and designing! <img align="right" alt="GIF" src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif?raw=true" />
 
 I am a graduating student in [Malayan Colleges Mindanao](https://mcm.edu.ph). I'm also a former volunteer as a game caster in school events and in PSITS-XI! 
@@ -13,7 +13,7 @@ I currently learning/Have basic knowledge in:
 * PHP
 
 ## Game Jam Entries
-# 2021 Game Jam+
+### 2021 Game Jam+
 
 Role - Lead Programmer
 * [Chase Kypher](https://minnic27.itch.io/chase-kypher) - Itch.io link
@@ -22,7 +22,7 @@ Role - Lead Programmer
 ![image](https://user-images.githubusercontent.com/61070788/164373373-9ad3b77a-0297-4ef7-9747-90b02f9eb9d0.png)
 
 
-# 2021 MCM YES Game Dev Competition
+### 2021 MCM YES Game Dev Competition
 
 Role - Lead Programmer
 * [Know Covid](https://coding-catharsis.itch.io/know-covid?secret=BSOU84Xjv2Eri51hm9sUwMdJJU) - Itch.io link
