@@ -30,7 +30,7 @@ Role - Lead Programmer
 ![image](https://user-images.githubusercontent.com/61070788/164373927-97ce64b8-d3b3-4a57-9469-8ce7509c812a.png)
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubz-skrrrt&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubz-skrrrt&show_icons&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubz-skrrrt)](https://github.com/anuraghazra/github-readme-stats)
 
