@@ -31,6 +31,10 @@ Role - Lead Programmer
 
 ## Projects
 ### Research project
+#### Allum - A Journey Beyond Time
+
+[![image](https://user-images.githubusercontent.com/61070788/164427301-2b695bb6-4437-42c1-aead-2d896f440bf3.png)](https://dubz-skrrrt.itch.io/allum-a-journey-beyond-time)
+
 
 ## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubz-skrrrt&show_icons&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
