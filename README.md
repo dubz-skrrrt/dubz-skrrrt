@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name's Lyle, I am an inspiring Game Developer. I passionate about creating games from coding to making game concepts and designing! <img align="right" alt="GIF" src="https://media.giphy.com/media/VePtB3roynxfLYicuV/giphy.gif?raw=true" />
 
-I am a graduating student in [Malayan Colleges Mindanao](https://mcm.edu.ph) major in Entertainment and Multimedia Computing (EMC). I'm also a former volunteer as a game caster in school events and in PSITS-XI! 
+I am a graduate student from [Malayan Colleges Mindanao](https://mcm.edu.ph) major in Entertainment and Multimedia Computing (EMC). I'm also a former volunteer as a game caster in school events and in PSITS-XI! Now working as a Junior Game Programmer in ODD Games Philippines.
 I have also participated in a few game jams which was a great experience as a game developer!
 
 ## Programming Languages
